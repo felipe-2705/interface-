@@ -1,0 +1,11 @@
+/home/felipecastro/Documentos/c#/projetito/bin/Debug/netcoreapp2.2/projetito.deps.json
+/home/felipecastro/Documentos/c#/projetito/bin/Debug/netcoreapp2.2/projetito.runtimeconfig.json
+/home/felipecastro/Documentos/c#/projetito/bin/Debug/netcoreapp2.2/projetito.runtimeconfig.dev.json
+/home/felipecastro/Documentos/c#/projetito/bin/Debug/netcoreapp2.2/projetito.dll
+/home/felipecastro/Documentos/c#/projetito/bin/Debug/netcoreapp2.2/projetito.pdb
+/home/felipecastro/Documentos/c#/projetito/obj/Debug/netcoreapp2.2/projetito.csprojAssemblyReference.cache
+/home/felipecastro/Documentos/c#/projetito/obj/Debug/netcoreapp2.2/projetito.csproj.CoreCompileInputs.cache
+/home/felipecastro/Documentos/c#/projetito/obj/Debug/netcoreapp2.2/projetito.AssemblyInfoInputs.cache
+/home/felipecastro/Documentos/c#/projetito/obj/Debug/netcoreapp2.2/projetito.AssemblyInfo.cs
+/home/felipecastro/Documentos/c#/projetito/obj/Debug/netcoreapp2.2/projetito.dll
+/home/felipecastro/Documentos/c#/projetito/obj/Debug/netcoreapp2.2/projetito.pdb
