@@ -1,0 +1,8 @@
+4
+5
+./arqs/teste.txt
+teste.txt
+21/08/20 00:00:00
+f
+d
+fuvoce

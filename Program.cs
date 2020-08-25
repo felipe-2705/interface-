@@ -1,6 +1,7 @@
 ﻿using System;
 using Interface;
-
+using manipuladorArquivos;
+using manipuladorDiretorios;
 
 namespace projetito
 {
@@ -8,7 +9,11 @@ namespace projetito
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Diretorio d = new Diretorio("./root/teste");
+
+            d.removeDiretorio();
+
+
         }
     }
 }
