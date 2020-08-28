@@ -96,11 +96,10 @@ public class Arquivo{
     private void Reload(){
         using(StreamReader sr = File.OpenText(this.path)){
                
-                    string s = sr.ReadLine();
                     
-                    this.header_end = Convert.ToInt32(s);
+                    this.header_end = Convert.ToInt32(sr.ReadLine());
                     this.textbody = Convert.ToInt32(sr.ReadLine());
-                
+                    sr.ReadLine();
                     this.name = sr.ReadLine();
                     this.date = sr.ReadLine();
                 

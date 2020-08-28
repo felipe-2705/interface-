@@ -2,6 +2,8 @@
 using Interface;
 using manipuladorArquivos;
 using manipuladorDiretorios;
+using fileSystem;
+
 
 namespace projetito
 {
@@ -9,11 +11,14 @@ namespace projetito
     {
         static void Main(string[] args)
         {
-            Diretorio d = new Diretorio("./root/teste");
-
-            d.removeDiretorio();
-
-
+        
+            FileSystem fl = FileSystem.StartSystem();
+            fl.entraDiretorio("teste");
+            string[] r = fl.getDiretorioinfo();
+            Console.WriteLine(r[0]);
+            fl.saiDiretorio();
+            r=fl.getDiretorioinfo();
+            Console.WriteLine(r[0]);
         }
     }
 }
